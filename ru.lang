@@ -19682,6 +19682,7 @@ shop.offers.bundles.holiday_pack.titleLabel=Праздничный набор
 
 shop.offers.items.protectors_3.titleLabel=Продвинутые запчасти x{amount}
 shop.offers.items.batteries.titleLabel=Нестабильные аномальные батареи x{amount}
+shop.offers.items.levels.titleLabel={amount} уровней сезонного пропуска
 
 premium.purchaseOptions.best.label=ЛУЧШЕЕ ПРЕДЛОЖЕНИЕ
 premium.purchaseOptions.optimal.label=ОПТИМАЛЬНОЕ ПРЕДЛОЖЕНИЕ
